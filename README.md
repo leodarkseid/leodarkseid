@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=10
+### Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&layout=compact)
+
 
 
 <!--
