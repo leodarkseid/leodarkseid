@@ -4,7 +4,7 @@ I'm Leo! You could say I've had a few different career paths - from saving lives
 
 I strongly feel "The Office" is the best thing that ever graced Television
 
-I am huge fan of Soccer, also very passionate about Barcelona Fc 😎
+I am huge fan of Football, also very passionate about Barcelona Fc 😎
 
 
 
