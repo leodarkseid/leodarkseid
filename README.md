@@ -13,7 +13,7 @@ I am huge fan of Football, also very passionate about Barcelona Fc 😎
 
 
 
-
+![](https://komarev.com/ghpvc/?username=leodarkseid&color=dc143c)
 <!--
 **leodarkseid/leodarkseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
