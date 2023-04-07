@@ -11,6 +11,8 @@ I am huge fan of Football, also very passionate about Barcelona Fc 😎
 ### Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=20)
 
+![Twitter](https://www.twitter.com/leodarkseid)
+
 
 
 ![](https://komarev.com/ghpvc/?username=leodarkseid&color=dc143c)
