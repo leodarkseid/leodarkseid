@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-
-
 I'm Leo! I've had a few different career paths - from saving lives as a Medic to building them as a business development manager, and now, coding my way to a better future as a full stack developer. But one thing's remained constant: my mission to leave the world a better place than I found it. And who knows, maybe with your help, we can change the world one line of code at a time.
 
 I strongly feel "The Office" is the best thing that ever graced Television.
