@@ -8,7 +8,6 @@ I am huge fan of Football, also very passionate about Barcelona Fc 😎
 
 
 
-
 ### Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=20)
 
