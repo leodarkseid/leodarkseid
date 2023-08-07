@@ -2,7 +2,7 @@
 I'm Leo! 
 
 
-I am a Versatile Software / Solidity Engineer skilled and experienced in building robust Backend infrastructures, developing Smart Contracts, and creating intuitive frontend systems and research.
+I am a Versatile Software Engineer skilled and experienced in building robust Backend infrastructures, developing Smart Contracts, and creating intuitive frontend systems and research.
 I have played pivotal roles in building protocols and applications that process several millions of assets in dollars and thousands of users.
 I am currently researching and writing on Homomorphic Encryption
  
