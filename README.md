@@ -15,7 +15,7 @@ I am huge fan of Football, Forca Barca ✌️😎
 
 
 ![](https://komarev.com/ghpvc/?username=leodarkseid&color=dc143c)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=20)
+
 
 <!--
 **leodarkseid/leodarkseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ I am huge fan of Football, Forca Barca ✌️😎
 
 ### Languages Used
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=20)
 
 
 
