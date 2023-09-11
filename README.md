@@ -3,26 +3,26 @@ I'm Leo!
 
 
 I am a Versatile Software Engineer skilled and experienced in building robust Backend infrastructures, developing Smart Contracts, and creating intuitive frontend systems and research.
-I have played pivotal roles in building protocols and applications that process several millions of assets in dollars and thousands of users.
+I have played pivotal roles in building protocols and applications that process millions of dollars worth of assets and serve thousands of users. 
 I am currently researching and writing on Homomorphic Encryption
  
 My mission is to leave the world a better place than I found it. And who knows, maybe with your help, we can change the world one line of code at a time.
 
 I strongly feel "The Office" is the best thing that ever graced Television.
 
-I am huge fan of Football, also very passionate about Barcelona Fc 😎 
+I am huge fan of Football, Forca Barca ✌️😎 
 
 
 
 ![](https://komarev.com/ghpvc/?username=leodarkseid&color=dc143c)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=20)
 
 <!--
 **leodarkseid/leodarkseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ### Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leodarkseid&langs_count=20)
+
 
 
 
